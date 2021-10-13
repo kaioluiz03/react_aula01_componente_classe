@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: lightpink;
+}
+.container {
+    width: 40vw;
+    height: 200px;
+    margin-top: 50px;
+    border-style: dotted;
+    border-color: coral;
+    border-width: 5px;
+    background-color: burlywood;
+}
+
+.container h1 {
+    color: yellow;
+}
+.container h1:hover {
+    color: tomato;
+}
+
+.container p {
+    text-decoration: underline yellow;
+}
